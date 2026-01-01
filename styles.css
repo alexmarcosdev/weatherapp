@@ -91,9 +91,11 @@ body {
   display: none;
 }
 .error {
-  text-align: left;
+  text-align: center;
   margin-left: 10px;
   font-size: 14px;
   margin-top: 10px;
   display: none;
+  color: tomato;
+  padding-top: 20px;
 }
